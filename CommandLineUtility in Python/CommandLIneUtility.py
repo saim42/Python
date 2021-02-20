@@ -1,7 +1,7 @@
 import argparse
 import sys
 
-def cal(args)
+def cal(args):
     if --o=='add':
         return args.x+ args.y
     elif --o=='mul':
